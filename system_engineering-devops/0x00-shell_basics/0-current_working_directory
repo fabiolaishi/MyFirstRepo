@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-pwd
+mkdir my_new_dir
