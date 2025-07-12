@@ -1,5 +1,5 @@
 Brief Introduction About Myself
 
-Hello! My name is Fabiola. I am passionate about learning technology and improving my skills in programming and software development. I'm especially interested in working on real-world projects and collaborating with others.
+Hello! My name is Fabiola. I am passionate about learning technology and improving my skills in programming and software development. I'm especially interested in working on real-world projects and collaborating with others especial in ALX-Community.
 
 I created this repository as part of my learning journey on GitHub, and I look forward to using this platform to host, track, and contribute to exciting projects.
